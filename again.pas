@@ -5,7 +5,6 @@ type
 var
     A:Matrice;
     N,i,j,t:integer;
-    Res:boolean;
 procedure saisir(var a:integer);
 begin
 	while(N<=1) do 
